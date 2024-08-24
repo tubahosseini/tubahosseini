@@ -3,7 +3,7 @@
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=tubahosseini&label=Profile%20views&color=0e75b6&style=flat" alt="tubahosseini"/>
-<h1 align="center">Hi everyone, I'm Tuba! <br/> A frontend development enthusiast :) </h1>
+<h1 align="center">Hi everyone, I'm Tuba! <br/> A passionate Front-End Developer :) </h1>
 </div>
 <br>
 <br>
